@@ -1,4 +1,9 @@
 # OpenQuick
+실시간 전동킥보드의 사용 가능한 위치정보 공유 서비스 애플리케이션
+
+### :page_facing_up: 참고사항
+ - **진행기간** : 2019.07.01 ~ 2019.07.20
+ - **첨부자료** : [OpenQuick 자료](https://github.com/KJY97/OpenQuick/blob/main/OpenQuick.pdf)
 
 ```
 1. OpenQuick_app폴더는 안드로이드 스튜디오에 import하시면 됩니다.
