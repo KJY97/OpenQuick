@@ -3,7 +3,7 @@
 
 ### :page_facing_up: 참고사항
  - **진행기간** : 2019.07.01 ~ 2019.07.20
- - **첨부자료** : [OpenQuick 자료](https://github.com/KJY97/OpenQuick/blob/main/OpenQuick.pdf)
+ - **첨부자료** : [OpenQuick 정리](https://github.com/KJY97/OpenQuick/blob/main/OpenQuick.pdf)
 
 ```
 1. OpenQuick_app폴더는 안드로이드 스튜디오에 import하시면 됩니다.
